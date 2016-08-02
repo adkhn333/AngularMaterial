@@ -1,0 +1,1 @@
+{"version":3,"file":"promise-completer.js","sourceRoot":"","sources":["promise-completer.ts"],"names":[],"mappings":";;;;;;;YACA;gBAKE;oBALF,iBAWC;oBALG,IAAI,CAAC,OAAO,GAAG,IAAI,OAAO,CAAC,UAAC,GAAG,EAAE,GAAG;wBAClC,KAAI,CAAC,OAAO,GAAG,GAAG,CAAC;wBACnB,KAAI,CAAC,MAAM,GAAG,GAAG,CAAC;oBACpB,CAAC,CAAC,CAAC;gBACL,CAAC;gBACH,uBAAC;YAAD,CAAC,AAXD,IAWC;YAXD,+CAWC,CAAA"}
